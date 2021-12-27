@@ -1,4 +1,6 @@
-# WREATH WRITEUP
+# Wreath Network Penetration Report
+![logo](assets/255x255_logo.png "SunburstMako")
+## || sunburst-mako || 2021-12-25 ||
 
 > ## Report
 > - ### [0. Coversheet.....................................](#Wreath-Network-Penetration-Report)
